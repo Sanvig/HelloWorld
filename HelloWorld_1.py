@@ -11,17 +11,17 @@ print("Goodbye")
 
 x=10
 
-print(x/2)
+#print(x/2)
+# her i programmet er jeg rigtigtidjdf
 
 print("prøv igen")
-print(x)
+x=1
 
-while x>1:
-	print("prøv igen") 
+while x<11: 
 	print(x)
-	x=x-1
+	x=x+1
 
-print(x1)
+#print(x1)
 
 
 
